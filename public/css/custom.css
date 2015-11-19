@@ -1,0 +1,46 @@
+#logo2{
+	text-decoration: none;
+	font-size: 42px;
+	letter-spacing: -1pt;
+	font-weight: bold;
+	font-family:arial, "Times New Roman", Times, serif;
+	text-align: left;
+	line-height: 57px;
+	padding-left: 0px;
+}
+
+#logo2 a, #slogan{
+	color: #fd7800;
+}
+
+#slogan{
+	text-align: left;
+	padding-left: 0px;
+}
+
+.navbar-nav li a {
+    color: #222222;
+}
+
+#nav {
+    float: right;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 13px;
+}
+
+#nav a, #nav a:visited {
+    color: #000;
+}
+#nav a {
+    padding: 1.7em;
+    text-decoration: none;
+}
+#nav a {
+    display: block;
+    position: relative;
+}
+#nav, #nav * {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
